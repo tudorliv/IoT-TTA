@@ -22,7 +22,7 @@ We will extend the IoT taxonomy with semantic ontologies containing a knowledge 
 - Ontology for IIoT applications based on cloud and edge computing
 
 
-Exemple: The RDF graph for the network layer ontology is represented in the figure below.
+Example: The RDF graph for the network layer ontology is represented in the figure below.
 ![image](https://user-images.githubusercontent.com/22960904/179416984-a76393f1-bfd5-411e-b82e-77f6509ebc4f.png)
 
 
