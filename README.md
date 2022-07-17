@@ -26,6 +26,12 @@ Example: The RDF graph for the network layer ontology is represented in the figu
 ![image](https://user-images.githubusercontent.com/22960904/179416984-a76393f1-bfd5-411e-b82e-77f6509ebc4f.png)
 
 3. IoT-TTA Ontology (OWL format)
+- Annotation properties
+- Object Properties
+- Data properties
+- Classes
+- Individuals
+- General axioms
 
 
 <?xml version="1.0"?>
