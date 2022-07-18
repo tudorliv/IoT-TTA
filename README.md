@@ -32,10 +32,10 @@ Example: The RDF graph for the network layer ontology is represented in the figu
 
 ![image](https://user-images.githubusercontent.com/22960904/179416984-a76393f1-bfd5-411e-b82e-77f6509ebc4f.png)
 
-IoT-TTA Ontology 
+IoT-TTA Ontology - OWL format
 ===========
 
-[IoT-TTA OWL format](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA_OWL.md)
+[IoT-TTA (Classes and Properties)](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA_OWL.md)
 
 [Rules](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA-Rules.md) 
 
