@@ -35,7 +35,7 @@ Example: The RDF graph for the network layer ontology is represented in the figu
 IoT-TTA Ontology (OWL format)
 ===========
 
-![Classes](https://www.upg-ploiesti.ro)
+[Classes](https://www.upg-ploiesti.ro)
 
 Annotation properties
 
