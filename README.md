@@ -35,7 +35,7 @@ Example: The RDF graph for the network layer ontology is represented in the figu
 IoT-TTA Ontology 
 ===========
 
-[IoT-TTA OWL format](https://www.upg-ploiesti.ro)
+[IoT-TTA OWL format](IoT-TTA/IoT-TTA ontology OWL format)
 
 [Rules]() 
 
