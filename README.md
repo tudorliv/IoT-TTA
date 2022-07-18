@@ -1,4 +1,5 @@
 # IoT-TTA
+
 IoT-TTA Ontology for Internet of Things Technologies, Tools, and Applications
 ===========
 
@@ -28,18 +29,22 @@ Semantic ontology for IoT layers
 
 
 Example: The RDF graph for the network layer ontology is represented in the figure below.
+
 ![image](https://user-images.githubusercontent.com/22960904/179416984-a76393f1-bfd5-411e-b82e-77f6509ebc4f.png)
 
 IoT-TTA Ontology (OWL format)
 ===========
 
-- Annotation properties
-- Object Properties
-- Data properties
-
 ![Classes](https://www.upg-ploiesti.ro)
 
-- Individuals
+Annotation properties
+
+Object Properties
+
+Data properties
+
+
+Individuals
 - General axioms
 
 
