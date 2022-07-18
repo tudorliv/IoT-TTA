@@ -29,7 +29,7 @@ Example: The RDF graph for the network layer ontology is represented in the figu
 - Annotation properties
 - Object Properties
 - Data properties
-- Classes
+- [Classes] {https://www.upg-ploiesti.ro/}
 - Individuals
 - General axioms
 
