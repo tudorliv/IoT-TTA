@@ -37,6 +37,6 @@ IoT-TTA Ontology
 
 [IoT-TTA OWL format](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA_OWL.md)
 
-[Rules]() 
+[Rules](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA-Rules.md) 
 
 
