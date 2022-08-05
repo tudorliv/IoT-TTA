@@ -28,8 +28,6 @@ Semantic ontology for IoT layers
 - Ontology for IIoT applications based on cloud and edge computing
 
 
-Example: The RDF graph for the network layer ontology is represented in the figure below.
-
 
 IoT-TTA Ontology - OWL format
 ===========
