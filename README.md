@@ -30,7 +30,6 @@ Semantic ontology for IoT layers
 
 Example: The RDF graph for the network layer ontology is represented in the figure below.
 
-![image](https://user-images.githubusercontent.com/22960904/179416984-a76393f1-bfd5-411e-b82e-77f6509ebc4f.png)
 
 IoT-TTA Ontology - OWL format
 ===========
