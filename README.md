@@ -28,7 +28,7 @@ Semantic ontology for IoT layers
 IoT-TTA Ontology - OWL format
 ===========
 
-[IoT-TTA (Classes and Properties)](https://github.com/tudorliv/IoT-TTA/blob/main/IIoT_v1.3.owl)
+[IoT-TTA (Classes, Properties, and Rules)](https://github.com/tudorliv/IoT-TTA/blob/main/IIoT_v1.3.owl)
 
 
 
