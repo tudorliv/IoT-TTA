@@ -4,7 +4,9 @@ IoT-TTA Ontology for Internet of Things Technologies, Tools, and Applications
 ===========
 
 Authors: Liviana N. Tudor{a,e}, Lecia Barker{b}, Mohammad Q. Azhar{c}, Jorge Guerra{d}, Clark Mousaw{b}
+
 Affiliations:
+
 {a} Politehnica University of Bucharest, Romania
 {b} University of Colorado, Boulder, CO 80309, USA
 {c} BMCC, The City University of New York, NY-10007, USA
