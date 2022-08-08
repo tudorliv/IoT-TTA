@@ -30,6 +30,5 @@ IoT-TTA Ontology - OWL format
 
 [IoT-TTA (Classes and Properties)](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA_OWL.md)
 
-[Rules](https://github.com/tudorliv/IoT-TTA/blob/main/IoT-TTA-Rules.md) 
 
 
