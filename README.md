@@ -3,7 +3,7 @@
 IoT-TTA Ontology for Internet of Things Technologies, Tools, and Applications
 ===========
 
-Authors: Liviana N. Tudor{a,e}, Lecia Barker{b}, Mohammad Q. Azhar{c}, Jorge Guerra{d}, Clark Mousaw{b}
+Authors: Liviana N. Tudor^{a,e}, Lecia Barker{b}, Mohammad Q. Azhar{c}, Jorge Guerra{d}, Clark Mousaw{b}
 
 Affiliations:
 
