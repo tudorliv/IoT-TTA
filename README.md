@@ -9,11 +9,15 @@ Affiliations:
 
 {a} Politehnica University of Bucharest, Romania
 
+
 {b} University of Colorado, Boulder, CO 80309, USA
+
 
 {c} BMCC, The City University of New York, NY-10007, USA
 
+
 {d} Internet of Things Research Group, San Marcos National University, Lima, Peru
+
 
 {e} Petroleum-Gas University of Ploiesti, Romania
 
