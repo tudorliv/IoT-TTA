@@ -5,15 +5,10 @@ IoT-TTA Ontology for Internet of Things Technologies, Tools, and Applications
 
 Authors: Liviana N. Tudor, Lecia Barker, Mohammad Q. Azhar, Jorge Guerra, Clark Mousaw
 
-Abstract
-===========
-
-The IoT-TTA is a semantic ontology of terms related to the Internet of Things technologies, tools, and applications that has capabilities of interoperability, data preprocessing, and fast querying. The IoT-TTA ontology ensures interoperability through the Flow-Service-Quality semantics based on constraints and semantic queries based on statistical formulas.
-
 Introduction
 ===========
 
-Ontology description is carried out by setting the vocabulary of terms related to enterprise and industrial IoT layers and defining the parent/child relationships based on IoT concepts, technologies, and tools. We will extend the IoT taxonomy with semantic ontologies containing a knowledge base with properties and rules specific to IIoT layers, technologies, tools, applications, and relationships between them.
+The Internet of Things taxonomy is extended with semantic ontologies for IoT layers, containing classes, properties, individuals, and rules specific to IoT technologies, tools, and applications.
 
 Semantic ontology for IoT layers
 ===========
@@ -25,7 +20,7 @@ Semantic ontology for IoT layers
 
 
 
-IoT-TTA Ontology
+IoT-TTA Ontology Description
 ===========
 
 [IoT-TTA (Classes, Properties, and Rules)](https://tudorliv.github.io/IoT-TTA/index.html)
