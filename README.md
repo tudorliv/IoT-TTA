@@ -37,7 +37,7 @@ Semantic ontology for IoT layers
 
 
 
-IoT-TTA Ontology Documentation
+IoT-TTA Ontology (metadata specifications)
 ===========
 
 [IoT-TTA (Classes, Properties, and Rules)](https://tudorliv.github.io/IoT-TTA/index.html)
