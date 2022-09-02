@@ -13,10 +13,14 @@
   a owl:Ontology, voaf:Vocabulary ;
   owl:versionIRI <https://tudorliv.github.io/IoT-TTA/IIoT_v1.4.ttl>;
   owl:versionInfo "Version 1.4" ;
-  dcterms:creator <https://dl.acm.org/profile/99658728948> ;
+  dcterms:creator https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en ;
   vann:preferredNamespacePrefix "iot-tta";
   vann:preferredNamespaceUri <https://w3id.org/iot-tta#> ;
-  dcterms:contributor <https://atemezing.org> ;
+  dcterms:contributor https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en; 
+                      https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en; 
+                      https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en;
+                      https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw;                      
+                      <https://atemezing.org> ; 
   dcterms:issued "2022-08-27"^^xsd:date ;
   dcterms:modified "2022-09-02"^^xsd:date ;
   dcterms:title "Ontology for Internet of Things Technologies, Tools, and Applications"@en ;
