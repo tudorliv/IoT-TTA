@@ -31,7 +31,7 @@ Semantic ontology for IoT layers
 ===========
 
 - Device layer ontology
-- [Network layer ontology](https://tudorliv.github.io/IoT-TTA/Network_ontology.txt)
+- [Network layer ontology](https://tudorliv.github.io/IoT-TTA/Network_ontology.ttl)
 - Support layer ontology
 - Ontology for IIoT applications based on cloud and edge computing
 
