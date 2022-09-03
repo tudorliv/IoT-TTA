@@ -2486,25 +2486,25 @@ owl:Thing rdfs:comment "IoT-TTA is a semantic ontology for Internet of Things te
 #    Rules
 #################################################################
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#x> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#x> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#y> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#y> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#z> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#z> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-TTA/#x> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta/#x> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-TTA/#y> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta/#y> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-TTA/#z> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta/#z> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#w> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#w> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#q> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#q> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#t> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#t> rdf:type swrl:Variable .
 
-<http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#s> rdf:type swrl:Variable .
+<https://w3id.org/iot-tta#s> rdf:type swrl:Variable .
 
 [ swrla:isRuleEnabled "true"^^xsd:boolean ;
    rdfs:comment ""^^xsd:string ;
@@ -2513,24 +2513,24 @@ owl:Thing rdfs:comment "IoT-TTA is a semantic ontology for Internet of Things te
    swrl:body [ rdf:type swrl:AtomList ;
                rdf:first [ rdf:type swrl:IndividualPropertyAtom ;
                            swrl:propertyPredicate :hasTechnology ;
-                           swrl:argument1 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#x> ;
-                           swrl:argument2 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#y>
+                           swrl:argument1 <https://w3id.org/iot-tta#x> ;
+                           swrl:argument2 <https://w3id.org/iot-tta#y>
                          ] ;
                rdf:rest [ rdf:type swrl:AtomList ;
                           rdf:first [ rdf:type swrl:ClassAtom ;
                                       swrl:classPredicate :Edge_technology ;
-                                      swrl:argument1 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#y>
+                                      swrl:argument1 <https://w3id.org/iot-tta#y>
                                     ] ;
                           rdf:rest [ rdf:type swrl:AtomList ;
                                      rdf:first [ rdf:type swrl:ClassAtom ;
                                                  swrl:classPredicate :Application ;
-                                                 swrl:argument1 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#x>
+                                                 swrl:argument1 <https://w3id.org/iot-tta#x>
                                                ] ;
                                      rdf:rest [ rdf:type swrl:AtomList ;
                                                 rdf:first [ rdf:type swrl:IndividualPropertyAtom ;
                                                             swrl:propertyPredicate :hasTool ;
-                                                            swrl:argument1 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#y> ;
-                                                            swrl:argument2 <http://www.semanticweb.org/IoT-WG/ontologies/2022/3/IIoT#z>
+                                                            swrl:argument1 <https://w3id.org/iot-tta#y> ;
+                                                            swrl:argument2 <https://w3id.org/iot-tta#z>
                                                           ] ;
                                                 rdf:rest rdf:nil
                                               ]
