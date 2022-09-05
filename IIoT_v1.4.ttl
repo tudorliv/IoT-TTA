@@ -20,6 +20,7 @@
                       https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en; 
                       https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en;
                       https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw;                      
+                      https://atemezing.org> ;
   dcterms:issued "2022-08-27"^^xsd:date ;
   dcterms:modified "2022-09-02"^^xsd:date ;
   dcterms:title "Ontology for Internet of Things Technologies, Tools, and Applications"@en ;
