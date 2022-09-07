@@ -30,7 +30,7 @@
                             dcterms:title "Ontology for Internet of Things Technologies, Tools, and Applications"@en ;
                             vann:preferredNamespacePrefix "iot-tta" ;
                             vann:preferredNamespaceUri : ;
-                            owl:versionInfo "Version 1.4" .
+                            owl:versionInfo "Version 1.2" .
 
 #################################################################
 #    Annotation properties
