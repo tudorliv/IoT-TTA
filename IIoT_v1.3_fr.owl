@@ -16,10 +16,10 @@
     <owl:Ontology rdf:about="https://w3id.org/iot-tta">
         <owl:versionIRI rdf:resource="https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.ttl"/>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/"/>
-        <dcterms:contributor rdf:resource="https://orcid.org/0000-0002-0814-2615"/>
-        <dcterms:contributor rdf:resource="https://orcid.org/0000-0003-0702-6134"/>
-        <dcterms:contributor rdf:resource="https://orcid.org/0000-0003-2392-7821"/>
         <dcterms:contributor rdf:resource="https://orcid.org/0000-0003-3562-0528"/>
+        <dcterms:contributor rdf:resource="https://orcid.org/0000-0002-0814-2615"/>
+        <dcterms:contributor rdf:resource="https://orcid.org/0000-0003-2392-7821"/>
+        <dcterms:contributor rdf:resource="https://orcid.org/0000-0003-0702-6134"/>     
         <dcterms:creator rdf:resource="https://orcid.org/0000-0001-6788-630X"/>
         <dcterms:description xml:lang="en"> The Internet of Things taxonomy is extended with semantic ontologies for IoT layers, containing classes, properties, individuals, and rules specific to IoT technologies, tools, and applications.</dcterms:description>
         <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-27</dcterms:issued>
