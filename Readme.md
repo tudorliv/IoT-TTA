@@ -13,8 +13,9 @@ Version IRI: [IoT-TTA Ontology (Turtle version)](https://tudorliv.github.io/IoT-
 Current version : Version 1.3
 
 
-Authors : [Nicoleta Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en)
+Authors : 
 =========
+[Nicoleta Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en)
 
 
 
