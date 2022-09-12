@@ -10,23 +10,17 @@ URI: https://w3id.org/iot-tta/
 Version IRI: [IoT-TTA Ontology (Turtle version)](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.ttl)
 
 
-Current version : Version 1.3
+Current version: Version 1.3
 
 
-Authors : 
-=========
-[Nicoleta Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en)
+Authors: [Nicoleta Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en)
 
 
-
-Contributors :
-===========
-
-[Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en), [Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en), [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
+Contributors: [Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en), [Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en), [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
 
 
 
-Other visualisation :
+Other visualisation:
 ===========
 
 [Ontology source](http://150.146.207.114/lode/source?url=https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl) - [WebVowl](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl)
