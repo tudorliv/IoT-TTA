@@ -1,46 +1,60 @@
-# IoT-TTA
-
-IoT-TTA Ontology for Internet of Things Technologies, Tools, and Applications
+Ontology for Internet of Things Technologies, Tools, and Applications
 ===========
 
-Authors: Liviana N. Tudor{a,e}, Lecia Barker{b}, Mohammad Q. Azhar{c}, Jorge Guerra{d}, Clark Mousaw{b}
-
-Affiliations:
-
-{a} Politehnica University of Bucharest, Romania
+The Internet of Things taxonomy is extended with semantic ontologies for IoT layers, containing classes, properties, individuals, and rules specific to IoT technologies, tools, and applications:
 
 
-{b} University of Colorado, Boulder, CO 80309, USA
+IRI: https://w3id.org/iot-tta
 
 
-{c} BMCC, The City University of New York, NY-10007, USA
-
-
-{d} Internet of Things Research Group, San Marcos National University, Lima, Peru
-
-
-{e} Petroleum-Gas University of Ploiesti, Romania
-
-
-Introduction
+Version IRI: 
 ===========
 
-The Internet of Things taxonomy is extended with semantic ontologies for IoT layers, containing classes, properties, individuals, and rules specific to IoT technologies, tools, and applications.
+IoT-TTA Documentation https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.ttl
 
-Semantic ontology for IoT layers
+
+Current version : Version 1.3
+
+
+Authors :
 ===========
 
-- Device layer ontology
-- [Network layer ontology](https://tudorliv.github.io/IoT-TTA/Network_ontology.txt)
-- Support layer ontology
-- Ontology for IIoT applications based on cloud and edge computing
+Nicoleta Liviana Tudor https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en
+
+Lecia Barker https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en
 
 
-
-IoT-TTA Ontology (Classes, Properties, and Rules)
+Contributors :
 ===========
 
-[IoT-TTA Documentation](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en)
+Mohammad Q. Azhar https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en
+
+Clark Mousaw https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw
+
+Jorge Guerra Guerra https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en
 
 
+Other visualisation :
+===========
 
+[Ontology source](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.owl) - WebVowl
+
+
+Table of Content
+===========
+
+Classes
+
+Object Properties
+
+Data Properties
+
+Named Individuals
+
+Annotation Properties
+
+General Axioms
+
+SWRL Rules
+
+Namespace Declarations
