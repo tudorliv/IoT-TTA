@@ -26,32 +26,33 @@ Contributors :
 
 [Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en)
 
+[Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en)
+
 [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
 
-[Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en)
 
 
 Other visualisation :
 ===========
 
-[Ontology source](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl) - WebVowl
+Ontology source - [WebVowl](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl)
 
 
 Table of Content
 ===========
 
-Classes
+[Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#classes)
 
-Object Properties
+[Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#objectproperties)
 
-Data Properties
+[Data Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#dataproperties)
 
-Named Individuals
+[Named Individuals](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#namedindividuals)
 
-Annotation Properties
+[Annotation Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#annotationproperties)
 
-General Axioms
+[General Axioms](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#generalaxioms)
 
-SWRL Rules
+[SWRL Rules](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#swrlrules)
 
-Namespace Declarations
+[Namespace Declarations](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#namespacedeclarations)
