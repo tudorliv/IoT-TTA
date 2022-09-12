@@ -35,7 +35,7 @@ Contributors :
 Other visualisation :
 ===========
 
-Ontology source - [WebVowl](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl)
+[Ontology source](http://150.146.207.114/lode/source?url=https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl) - [WebVowl](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl)
 
 
 Table of Content
