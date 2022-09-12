@@ -1,10 +1,10 @@
-Ontology for Internet of Things Technologies, Tools, and Applications
+IoT-TTA: Ontology for Internet of Things Technologies, Tools, and Applications
 ===========
 
 The Internet of Things taxonomy is extended with semantic ontologies for IoT layers, containing classes, properties, individuals, and rules specific to IoT technologies, tools, and applications:
 
 
-IoT-TTA Documentation: https://w3id.org/iot-tta
+URI: https://w3id.org/iot-tta/
 
 
 Version IRI: [IoT-TTA Ontology (Turtle version)](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.ttl)
