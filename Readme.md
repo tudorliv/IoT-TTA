@@ -16,7 +16,7 @@ Current version: Version 1.3
 Authors: 
 ===========
 [Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en),
-[Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en), [Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en), [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
+[Ghislain Atemezing](https://scholar.google.es/citations?user=17EeA1UAAAAJ&hl=en), [Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en), [Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en), [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
 
 
 
