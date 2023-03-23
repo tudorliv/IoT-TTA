@@ -31,16 +31,16 @@ Table of Content
 
 [Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#classes)
 
-[Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#objectproperties)
+[Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#objectproperties)
 
-[Data Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#dataproperties)
+[Data Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#dataproperties)
 
-[Named Individuals](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#namedindividuals)
+[Named Individuals](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#namedindividuals)
 
-[Annotation Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#annotationproperties)
+[Annotation Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#annotationproperties)
 
-[General Axioms](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#generalaxioms)
+[General Axioms](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#generalaxioms)
 
-[SWRL Rules](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#swrlrules)
+[SWRL Rules](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#swrlrules)
 
-[Namespace Declarations](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#namespacedeclarations)
+[Namespace Declarations](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#namespacedeclarations)
