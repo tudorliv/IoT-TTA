@@ -7,7 +7,7 @@ The Internet of Things taxonomy is extended with semantic ontologies for IoT lay
 URI: https://w3id.org/iot-tta/
 
 
-Version IRI: [IoT-TTA Ontology (Turtle version)](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3.ttl)
+Version IRI: [IoT-TTA Ontology (Turtle version)](https://tudorliv.github.io/IoT-TTA/iot-tta.ttl)
 
 
 Current version: Version 1.3
@@ -23,13 +23,13 @@ Authors:
 Other visualisation:
 ===========
 
-[Ontology source](http://150.146.207.114/lode/source?url=https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl) - [WebVowl](https://tudorliv.github.io/IoT-TTA/IIoT_v1.3_fr.owl)
+[Ontology source](http://150.146.207.114/lode/source?url=https://tudorliv.github.io/IoT-TTA/iot-tta.owl) - [WebVowl](https://tudorliv.github.io/IoT-TTA/iot-tta.owl)
 
 
 Table of Content
 ===========
 
-[Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#classes)
+[Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2Fiot-tta.owl&owlapi=true&lang=en#classes)
 
 [Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#objectproperties)
 
